@@ -5,7 +5,7 @@
 * Jhon Rojas Isidro
 * Luis Vasquez Espinoza
 
-## Temas de investiagción pre-proyectos:
+## Temas de investigación pre-proyectos:
 - Repaso Python
 - Regresion Lineal
 
