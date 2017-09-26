@@ -37,6 +37,7 @@ _Fuente: Material formato presentación_
 - Por organizar
 
 
-## Horarios de reuniones : 
-Sábado: 1 pm - 3 pm : Aula de ACECOM
+## Horarios de reuniones :
+Lunes: 4pm - Salón de ACECOM
+Sábado: 10pm - Hangouts
 
