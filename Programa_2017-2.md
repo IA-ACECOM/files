@@ -39,5 +39,6 @@ _Fuente: Material formato presentación_
 
 ## Horarios de reuniones :
 Lunes: 4pm - Salón de ACECOM
+
 Sábado: 10pm - Hangouts
 
